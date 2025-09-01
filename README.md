@@ -118,6 +118,7 @@ Website terdiri dari beberapa bagian utama:
 
 7. **Form Kontak**  
    - Form sederhana dengan input nama, email, dan pesan.
+     
      ![Tampilan Form Kontak](FormKontak.png)
 
      Potongan Kode :
