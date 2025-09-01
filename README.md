@@ -31,7 +31,7 @@ Website terdiri dari beberapa bagian utama:
 
 2. **Deskripsi Diri**  
    - Paragraf yang menjelaskan pengalaman kepemimpinan, kemampuan komunikasi, serta motivasi untuk berkembang.
-    ![Tampilan Deskripsi Diri](Deskripsi Diri.png)
+    ![Tampilan Deskripsi Diri](DeskripsiDiri.png)
 
     Potongan Kode :
    ```html
@@ -60,7 +60,7 @@ Website terdiri dari beberapa bagian utama:
 
 5. **Riwayat Pendidikan**  
    - Ditampilkan dalam bentuk **tabel** (`<table>` dengan border).
-    ![Tampilan Riwayat Pendidikan](Tabel-Riwayat-Pendidikan.png)
+    ![Tampilan Riwayat Pendidikan](TabelRiwayatPendidikan.png)
 
     Potongan Kode :
    ```html
@@ -118,7 +118,7 @@ Website terdiri dari beberapa bagian utama:
 
 7. **Form Kontak**  
    - Form sederhana dengan input nama, email, dan pesan.
-     ![Tampilan Form Kontak](Form-Kontak.png)
+     ![Tampilan Form Kontak](FormKontak.png)
 
      Potongan Kode :
      ```html
@@ -135,7 +135,7 @@ Website terdiri dari beberapa bagian utama:
      
 8. **Sosial Media**  
    - Link ke Instagram dan LinkedIn menggunakan tag `<a>` dengan `target="_blank"`.
-     ![Tampilan Sosial Media](Sosial-Media.png)
+     ![Tampilan Sosial Media](SosialMedia.png)
 
      Potongan Kode :
      ```html
