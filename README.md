@@ -31,7 +31,7 @@ Website terdiri dari beberapa bagian utama:
 
 2. **Deskripsi Diri**  
    - Paragraf yang menjelaskan pengalaman kepemimpinan, kemampuan komunikasi, serta motivasi untuk berkembang.
-    ![Tampilan Deskripsi Diri](Deskripsi-Diri.png)
+    ![Tampilan Deskripsi Diri](Deskripsi Diri.png)
 
     Potongan Kode :
    ```html
