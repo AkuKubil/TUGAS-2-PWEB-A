@@ -59,8 +59,8 @@ Website terdiri dari beberapa bagian utama:
      </ul>
 
 5. **Riwayat Pendidikan**  
-   - Ditampilkan dalam bentuk **tabel** (`<table>` dengan border).
-    ![Tampilan Riwayat Pendidikan](TabelRiwayatPendidikan.png)
+ - Ditampilkan dalam bentuk **tabel** (`<table>` dengan border).
+   ![Tampilan Riwayat Pendidikan](TabelRiwayatPendidikan.png)
 
     Potongan Kode :
    ```html
