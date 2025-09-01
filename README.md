@@ -31,7 +31,7 @@ Website terdiri dari beberapa bagian utama:
 
 2. **Deskripsi Diri**  
    - Paragraf yang menjelaskan pengalaman kepemimpinan, kemampuan komunikasi, serta motivasi untuk berkembang.
-    ![Tampilan Deskripsi Diri](assets/screenshot-profil.png)
+    ![Tampilan Deskripsi Diri](Deskripsi-Diri.png)
 
     Potongan Kode :
    ```html
@@ -46,7 +46,7 @@ Website terdiri dari beberapa bagian utama:
 
 4. **Hobi**  
    - Ditampilkan dalam bentuk **list** (`<ul>` dan `<li>`).
-     ![Tampilan Hobi](assets/screenshot-profil.png)
+     ![Tampilan Hobi](Hobi.png)
 
      Potongan Kode :
      ```html
@@ -60,7 +60,7 @@ Website terdiri dari beberapa bagian utama:
 
 5. **Riwayat Pendidikan**  
    - Ditampilkan dalam bentuk **tabel** (`<table>` dengan border).
-    ![Tampilan Deskripsi Diri](assets/screenshot-profil.png)
+    ![Tampilan Riwayat Pendidikan](Tabel-Riwayat-Pendidikan.png)
 
     Potongan Kode :
    ```html
@@ -118,7 +118,7 @@ Website terdiri dari beberapa bagian utama:
 
 7. **Form Kontak**  
    - Form sederhana dengan input nama, email, dan pesan.
-     ![Tampilan Deskripsi Diri](assets/screenshot-profil.png)
+     ![Tampilan Form Kontak](Form-Kontak.png)
 
      Potongan Kode :
      ```html
@@ -135,7 +135,7 @@ Website terdiri dari beberapa bagian utama:
      
 8. **Sosial Media**  
    - Link ke Instagram dan LinkedIn menggunakan tag `<a>` dengan `target="_blank"`.
-     ![Tampilan Deskripsi Diri](assets/screenshot-profil.png)
+     ![Tampilan Sosial Media](Sosial-Media.png)
 
      Potongan Kode :
      ```html
