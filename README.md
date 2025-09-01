@@ -20,7 +20,7 @@ Tugas ini bertujuan untuk membuat halaman web sederhana menggunakan **HTML** yan
 Website terdiri dari beberapa bagian utama:  
 1. **Judul, Identitas & Foto Profil**  
    - Menampilkan judul "Welcome To" dan identitas berupa nama serta NRP. Lalu, menampikan foto profil juga
-    ![Tampilan Identitas](identitas.png)
+    ![Tampilan Identitas](Identitas.png)
 
       Potongan Kode :
      ```html
